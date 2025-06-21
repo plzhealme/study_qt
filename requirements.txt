@@ -1,0 +1,5 @@
+packaging==25.0
+PySide2==5.15.2.1
+qtmodern==0.2.0
+QtPy==2.4.3
+shiboken2==5.15.2.1
